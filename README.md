@@ -29,7 +29,9 @@ Before using ScriptedSketches, you must obtain an API key from OpenAI and set it
 
 Open your terminal.   
 Run the following command:
+```
 export OPENAI_API_KEY='your_openai_api_key_here'
+```
 
 To make this change permanent, add the export command to your shell's startup script, such as ~/.bashrc, ~/.zshrc, or ~/.profile.
 
@@ -37,8 +39,7 @@ To make this change permanent, add the export command to your shell's startup sc
 
 Open Command Prompt.   
 Run the following command:
-
-``````
+```
 setx OPENAI_API_KEY "your_openai_api_key_here"
 ```
 
