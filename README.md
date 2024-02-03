@@ -50,8 +50,9 @@ Restart Command Prompt to apply the changes.
 ## Usage   
 
 Once installed and configured, generate ASCII art by simply typing:
+```
 scriptedsketches "describe your image here"
-
+```
 
 The terminal will display the ASCII art generated based on your description.   
 
